@@ -1,0 +1,46 @@
+a) We're we brazilians.
+
+[I] - Are we Brazilians?
+[N] - We are not Brazilians
+
+b) You're young.
+
+[I] - Are you young?
+[N] - You are not young
+
+c) He's old.
+
+[I] - Is he old?
+[N] - He is not old
+
+d) She's American
+
+[I] - Is she American?
+[N] - She is not American 
+
+e) I'm English
+
+[I] - Am i English?
+[N] - I am not English
+
+f) They're French
+
+[I] - Are they French?
+[N] - They are not French
+
+g) The car are Italian.
+
+[I] - Are the cars are Italian?
+[N] - The cars aren't Italian
+
+h) John is god student.
+
+[I] - Is John a good student ?
+[N] - John isn't a good student
+
+i) He's itelligent
+
+[I] - Is he intelligent
+[N] - He is not intelligent
+
+
